@@ -1,0 +1,29 @@
+﻿body {
+    background-image: url(./fon1.GIF);
+   
+	background-repeat: no-repeat;
+	background-size: cover;
+	-moz-background-size: 100%;
+    -webkit-background-size: 100%;
+}
+h1 {
+    font-family: Monotype Corsiva;
+    font-weight: bold;
+    font-size: 24pt;
+    text-decoration: underline;
+}
+
+.image {
+    float: left;
+height: 50%;
+width: 50 %;
+}
+h1 {
+    text-align: center;
+}
+p {
+    float: right;
+    background-color: #FFDAB9;
+    border: 1px solid red;
+    width: 300px;
+}

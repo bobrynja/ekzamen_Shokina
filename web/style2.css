@@ -1,0 +1,22 @@
+﻿body {
+    background-image: url(./fon2.GIF);
+}
+h1 {
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 24pt;
+    font-style:italic;
+    text-decoration: underline;
+    text-align: center;
+}
+.image {
+    float: right;
+}
+
+p {
+    float: left;
+    background-color: #FFDAB9;
+    border: solid 6px blue;
+    outline: solid 6px red;
+    width: 300px;
+}
